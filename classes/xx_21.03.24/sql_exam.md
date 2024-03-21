@@ -19,3 +19,8 @@
 > **Assume you have a table named `products` with columns `product_id`, `product_name`, and `price`. Write a query to select the names of products that do not contain the word 'cheap' in their names.**
 
 > ![**Solution:**](images/p4.PNG)
+
+### **Problem-5: Views and Joins**<br>
+> **Consider two tables: `orders` with columns `order_id`, `customer_id`, and `order_date`, and `customers` with columns `customer_id`, `customer_name`, and `city`. Create a view named `customer_orders` that displays the customer name, order ID, and order date for each order, along with the city of the customer.**
+
+> ![**Solution:**](images/p5.PNG)
