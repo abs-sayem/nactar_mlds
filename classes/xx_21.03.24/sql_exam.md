@@ -27,4 +27,10 @@
 
 ### **Problem-6: Event**<br>
 > **Design an event in MySQL that runs every day at midnight (12 AM) and updates the `sales` table (Problem 2) by increasing the sales amount of each product by 5%.**
+
 > ![**Solution:**](images/p6.PNG)
+
+### **Problem-8: GROUP BY and HAVING**<br>
+> **Consider a table named `orders` with columns `order_id`, `customer_id`, `order_date`, and `total_amount`. Write a query to find the total number of orders placed by each customer who has placed more than 5 orders.**
+
+> ![**Solution:**](images/p7.PNG)
