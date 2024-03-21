@@ -14,3 +14,8 @@
 > **Suppose you have two tables named `employees` and `departments`, where `employees` contains columns `employee_id`, `name`, `department_id`, and `salary`, and `departments` contains columns `department_id` and `department_name`. Write a query to select the names and salaries of employees who work in the 'Sales' department and whose salaries are greater than $50000. Also, the department name should contain the word 'Sales'.**
 
 > ![**Solution:**](images/p3.PNG)
+
+### **Problem-4: NOT, Wildcards, and LIKE**<br>
+> **Assume you have a table named `products` with columns `product_id`, `product_name`, and `price`. Write a query to select the names of products that do not contain the word 'cheap' in their names.**
+
+> ![**Solution:**](images/p4.PNG)
