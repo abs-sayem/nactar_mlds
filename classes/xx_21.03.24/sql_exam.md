@@ -9,3 +9,8 @@
 > **Consider a table named `sales` with columns `product_id`, `product_name`, `category`, and `sales_amount`. Write a query to find the total sales amount for each category, and display the results in descending order of total sales amount.**
 
 > ![**Solution:**](images/p2.PNG)
+
+### **Problem-3: JOIN, WHERE, and LIKE**<br>
+> **Suppose you have two tables named `employees` and `departments`, where `employees` contains columns `employee_id`, `name`, `department_id`, and `salary`, and `departments` contains columns `department_id` and `department_name`. Write a query to select the names and salaries of employees who work in the 'Sales' department and whose salaries are greater than $50000. Also, the department name should contain the word 'Sales'.**
+
+> ![**Solution:**](images/p3.PNG)
