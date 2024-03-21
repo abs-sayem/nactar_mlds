@@ -24,3 +24,7 @@
 > **Consider two tables: `orders` with columns `order_id`, `customer_id`, and `order_date`, and `customers` with columns `customer_id`, `customer_name`, and `city`. Create a view named `customer_orders` that displays the customer name, order ID, and order date for each order, along with the city of the customer.**
 
 > ![**Solution:**](images/p5.PNG)
+
+### **Problem-6: Event**<br>
+> **Design an event in MySQL that runs every day at midnight (12 AM) and updates the `sales` table (Problem 2) by increasing the sales amount of each product by 5%.**
+> ![**Solution:**](images/p6.PNG)
